@@ -1,38 +1,163 @@
-.App {
+* {
+  box-sizing: border-box;
+}
+
+/* ************************** Top Header *********************** */
+.top-header {
   text-align: center;
+  letter-spacing: 2px;
+  font-family: cursive;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* ******************************Navbar*********************************** */
+nav {
+  display: flex;
+  gap: 3vw;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  height: 3rem;
+  position: sticky;
+  top: 0;
+  left: 0;
+  box-shadow: 0px 1px 1px rgb(255, 13, 13);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+nav > p {
+  cursor: pointer;
+  letter-spacing: 1px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#cart-icon {
+  font-size: 2.5rem;
+  cursor: pointer;
+}
+
+#cart-icon:active {
+  transform: scale(1.1);
+  transition:linear 0.1s ;
+}
+
+
+/* ****************************** Header ********************************** */
+header {
+  background-image: url("https://img.freepik.com/free-photo/front-view-delicious-chocolate-cake-stand-with-copy-space_23-2148834056.jpg?w=740");
+  height: 45vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.header-content {
+  color: #FFFFFF;
+  /* background-color: pink; */
+  width: 50%;
+  height: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  justify-content:center;
+  align-items: flex-start;
+  margin: 0px 5rem;
+  line-height: 0.1;
+}
+
+.delicious {
+  font-family: cursive;
+  color: rgba(247, 56, 88, 0.973);
+  font-size: 3rem;
+}
+
+.cakes-for-you {
+  font-size: 1.3rem;
+}
+
+.shop-now {
+  background-color: rgb(241, 84, 110) ;
+  border: none;
+  outline: none;
+  padding: 10px 0px;
+  width: 10rem;
+  margin-top: 10px;
+  border-radius: 5px;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+
+.shop-now:active {
+  transform: scale(1.1);
+  transition:linear 0.1s ;
+}
+
+
+/* ****************************** Product **************************************** */
+.product-container {
+  width: 80vw;
+  margin:1rem auto;
+  display: flex;
+  gap: 2vw;
+  flex-wrap: wrap;
+  /* background-color: grey; */
+}
+
+.product {
+  height: 23rem;
+  width: 20rem;
+  box-shadow: 0px 0px 5px grey;
+  text-align: center;
+  padding: 5px 5px 15px 5px;
+  line-height: 0.4;
+}
+
+.product > img {
+  height: 70%;
+  width: 100%;
+}
+
+.product > img:hover {
+  transform: scale(1.1);
+  transition: linear 0.4s all;
+  border-radius: 1rem;
+}
+
+.btn-container {
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  gap: 2vw;
 }
 
-.App-link {
-  color: #61dafb;
+.btn{
+  /* background-color: red; */
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  letter-spacing: 1px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn:active {
+  transform: scale(1.1);
+  transition:linear 0.1s ;
 }
+
+.add-to-cart {
+  background-color: pink ;
+}
+
+.buy {
+  border:2px solid pink;
+  background-color: transparent;
+  width: 5rem;
+}
+
+
+
+
+
+
+
+
+
+
+

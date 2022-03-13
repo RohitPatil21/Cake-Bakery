@@ -1,0 +1,145 @@
+[
+    {
+        "id" : 1,
+        "name" : "Black Forest Cake",
+        "price" : 500,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/black-forest.jpg"
+    },
+
+    {
+        "id" : 2,
+        "name" : "Pineapple Cake",
+        "price" : 700,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/20-easy-recipes-for-making-cakes/crunchy-pineapple-cake.jpg"
+    },
+
+    {
+        "id" : 3,
+        "name" : "Ice Cream Cake",
+        "price" : 1000,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/ice-cream-cake.jpg"
+    },
+
+    {
+        "id" : 4,
+        "name" : "Strawberry Cake",
+        "price" : 1300,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/strawberry-cake.jpg"
+    },
+
+    {
+        "id" : 5,
+        "name" : "Chocó Chip Cake",
+        "price" : 1900,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/choco-chip-cake.jpg"
+    },
+
+    {
+        "id" : 6,
+        "name" : "Egg Less Truffle Cake",
+        "price" : 950,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/eggless-truffle-cake.jpg"
+    },
+
+    {
+        "id" : 7,
+        "name" : "Coffee Cake",
+        "price" : 950,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/20-easy-recipes-for-making-cakes/coffee-cake.jpg"
+    },
+
+    {
+        "id" :8,
+        "name" : "Chocó Cake",
+        "price" : 1550,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/20-easy-recipes-for-making-cakes/chocolate-cake.jpg"
+    },
+
+    {
+        "id" : 9,
+        "name" : "Mango Cake",
+        "price" : 1150,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/mango-cake.jpg"
+    },
+
+    {
+        "id" : 10,
+        "name" : "Oreo Cake",
+        "price" : 950,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/oreo-cake.jpg"
+    },
+
+    {
+        "id" : 11,
+        "name" : "Banana Cake",
+        "price" : 1500,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/banana-cake.jpg"
+    },
+
+    {
+        "id" : 12,
+        "name" : "Blackberry Cake",
+        "price" : 1250,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/blackberry-cake.jpg"
+    },
+
+    {
+        "id" : 13,
+        "name" : "Dry Fruit Cake",
+        "price" : 1950,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/dry-fruit-cake.jpg"
+    },
+
+    {
+        "id" : 14,
+        "name" : "White Chocolate Cake",
+        "price" : 990,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/white-chocolate-cake.jpg"
+    },
+
+    {
+        "id" : 15,
+        "name" : "Butterscotch Cake",
+        "price" : 1950,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/butterscotch-cake.jpg"
+    },
+
+    
+    {
+        "id" : 16,
+        "name" : "Cheese Cake",
+        "price" : 1390,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/top-20-best-recipes-world/cheese-cake.jpg"
+    },
+
+    {
+        "id" : 17,
+        "name" : "Red Velvet Cake",
+        "price" : 1010,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/red-velvet-1.jpg"
+    },
+
+    {
+        "id" : 18,
+        "name" : "Swiss Roll",
+        "price" : 1990,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/Sweets_Cake_Swiss_roll_484722.jpg"
+    },
+
+    
+    {
+        "id" : 19,
+        "name" : "Layer Cake",
+        "price" : 1340,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/layer-cake.jpg"
+    },
+
+    
+    {
+        "id" : 20,
+        "name" : "Coconut Cake",
+        "price" : 1670,
+        "url" : "https://www.crazymasalafood.com/wp-content/images/coconut-cake-1.jpg"
+    }
+    
+]
